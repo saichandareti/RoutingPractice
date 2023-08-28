@@ -1,0 +1,43 @@
+.nav-container {
+  height: 100px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.wave-image {
+  height: 24px;
+}
+.wave-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 68px;
+}
+.wave-heading {
+  font-size: 16px;
+  color: #12022f;
+}
+.headers-con {
+  display: flex;
+  flex-direction: row;
+  width: 170px;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0px;
+}
+.home {
+  font-size: 16px;
+  color: #12022f;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+  border: 0px solid;
+}
+.list-item {
+  list-style-type: none;
+}

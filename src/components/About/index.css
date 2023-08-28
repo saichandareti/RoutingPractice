@@ -1,0 +1,21 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 60px;
+}
+.home-image {
+  height: 150px;
+}
+.home-heading {
+  font-family: Roboto;
+  font-size: 50px;
+  color: #6d396b;
+  font-weight: 450;
+}
+.about-para {
+  font-size: 20px;
+  font-family: Roboto;
+  color: #555555;
+}
